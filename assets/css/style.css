@@ -20,3 +20,23 @@
     background-position: center;
     padding:200px;
 }
+
+.iconos {
+    border-top: 30px;
+    border-radius: 30px;
+    padding:100px;
+}
+.contacto{
+    text-align: center;
+    border-top: 60px;
+    padding:30px;
+
+}
+.fontawesone {
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+    text-align: justify;
+    border: 1px;
+    padding: 10px;
+}
